@@ -1,3 +1,4 @@
+#leitura de arquivos
 dados = read.csv2("custodeensino.csv",header=TRUE, sep=";" , dec=".")
 dados = as.numeric(unlist(dados))
 
