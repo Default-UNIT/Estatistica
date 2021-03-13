@@ -5,3 +5,4 @@
 ## ATIVIDADES
 
 * 10 de fev: [Medidas Estatísticas e Distribuição de Frequência](https://github.com/Default-UNIT/Estatistica/blob/main/Medidas%20Estatísticas%20e%20Distribuição%20de%20Frequência/ATIVIDADE1.r)
+* xx de mar: [Construção de Gráficos e Histogramas](https://github.com/Default-UNIT/Estatistica/tree/main/Construção%20de%20Gráficos%20e%20Histogramas)
